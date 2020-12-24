@@ -13,6 +13,7 @@ canonical_url: lorem-ipsum
 no_index: false
 template: post
 thumb_image: images/10.jpg
+image: images/10.jpg
 ---
 ## Lorem ipsum
 
