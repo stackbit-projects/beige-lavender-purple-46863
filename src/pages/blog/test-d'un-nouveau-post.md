@@ -2,7 +2,9 @@
 title: lorem-ipsum
 subtitle: lorem-ipsum
 date: '2020-12-24'
-excerpt: lorem-ipsum
+excerpt: >-
+  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
+  amet commodo massa.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
